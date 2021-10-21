@@ -4,8 +4,8 @@ Non-Professional Experience
 
 .. _nonprofessionalexperience:
 
-`Norcal Noise Fest <http://www.norcalnoisefest.com>`_ And Other Related Events
-------------------------------------------------------------------------------
+`Norcal Noise Fest <http://www.norcalnoisefest.com>`_
+-----------------------------------------------------
 
 * Primary Sound Engineer for In-Person events
 
