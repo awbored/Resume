@@ -32,7 +32,7 @@ Professional Experience
       * Provided regular reporting of security related issues, mostly auditing users with Privileged Access
       * **Accomplishments:**
             * Implemented a Server Security Design Standard to ensure server builds met Privileged Access standards
-            * Provided security insight and created processes for employee on and off boarding
+            * Provided security insight and created processes for employee onboarding and off boarding
             * Lead team and built processes for Server access cleanup project to remove access from servers where privileged access was granted in error
 
 
@@ -50,8 +50,8 @@ Professional Experience
       * Created and maintained documentation for department processes
       * Developed work process for new team innovations
       * **Accomplishments:**
-            * Was a key role in updating employee on and off boarding processes (2/2017)
-            * Redefined and tuned on boarding process for region specific employees
+            * Was a key role in updating employee onboarding and off boarding processes (2/2017)
+            * Redefined and tuned onboarding process for region specific employees
             * Maintained and updated documentation for team processes and applications
             * Designed and updated RightFax processes for system-wide implementation
 
