@@ -1,11 +1,17 @@
-===========================
-Non-Professional Experience
-===========================
+=================================
+Personal Projects and Client Work
+=================================
 
 .. _nonprofessionalexperience:
 
-`Norcal Noise Fest <http://www.norcalnoisefest.com>`_
------------------------------------------------------
+`Personal Home Page <https://andrewway.net/>`_
+-------------------------------------------------
+
+* Personal blog will detail ongoing events and projects
+
+
+`Norcal Noise Fest <https://www.youtube.com/norcalnoisefest>`_
+--------------------------------------------------------------
 
 * Primary Sound Engineer for In-Person events
 
