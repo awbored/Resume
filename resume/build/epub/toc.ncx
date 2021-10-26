@@ -135,8 +135,14 @@
         </navLabel>
         <content src="nonprofessionalexperience.xhtml#id3" />  
       </navPoint>
+      <navPoint id="navPoint22" playOrder="18">
+        <navLabel>
+          <text>Berkeley Finnish Hall</text>
+        </navLabel>
+        <content src="nonprofessionalexperience.xhtml#id4" />  
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint22" playOrder="18">
+    <navPoint id="navPoint23" playOrder="19">
       <navLabel>
         <text>Education &amp; Certification</text>
       </navLabel>

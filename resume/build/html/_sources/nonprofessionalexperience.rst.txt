@@ -46,6 +46,7 @@ Personal Projects and Client Work
 
 
 `Berkeley Finnish Hall <https://www.youtube.com/channel/UCdl8zZP472lo4tKM4P6dmeQ>`_
+------------------------------------------------------------------------------------
 
 * Technical Lead For Virtual Events
 
