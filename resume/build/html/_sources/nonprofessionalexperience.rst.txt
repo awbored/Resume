@@ -30,7 +30,7 @@ Personal Projects and Client Work
   * Playlist generating
   * Graphic Design
   * Capturing video and audio from multiple artists and performers from over the world for live stream during events
-  * Experience with multiple streaming software, OBS and Wirecast
+  * Experience with multiple streaming software, OBS
   * Experience with VoiP solutions, ZOOM, Discord
 
 
@@ -41,5 +41,15 @@ Personal Projects and Client Work
 
   * Event streaming over YouTube and Facebook
   * Experience with multiple streaming software, OBS and Wirecast
+  * Sound recording
+  * Sound design
+
+
+`Berkeley Finnish Hall <https://www.youtube.com/channel/UCdl8zZP472lo4tKM4P6dmeQ>`_
+
+* Technical Lead For Virtual Events
+
+  * Event streaming over YouTube
+  * Experience with multiple streaming software, OBS
   * Sound recording
   * Sound design
