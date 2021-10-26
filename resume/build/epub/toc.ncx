@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="unknown"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Resume</text>
+  </docTitle>
+  <navMap>    
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>Andrew W Surber</text>
+      </navLabel>
+      <content src="index.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>Andrew W Surber</text>
+      </navLabel>
+      <content src="main.xhtml" />  
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>Andrew W Surber</text>
+        </navLabel>
+        <content src="main.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>Contacts</text>
+        </navLabel>
+        <content src="main.xhtml#contacts" />  
+      </navPoint>
+      <navPoint id="navPoint5" playOrder="4">
+        <navLabel>
+          <text>Summary of Qualifications</text>
+        </navLabel>
+        <content src="main.xhtml#summary-of-qualifications" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint6" playOrder="5">
+      <navLabel>
+        <text>Technical Skills</text>
+      </navLabel>
+      <content src="skills.xhtml" />  
+      <navPoint id="navPoint7" playOrder="5">
+        <navLabel>
+          <text>Technical Skills</text>
+        </navLabel>
+        <content src="skills.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint8" playOrder="6">
+        <navLabel>
+          <text>Platforms</text>
+        </navLabel>
+        <content src="skills.xhtml#platforms" />  
+      </navPoint>
+      <navPoint id="navPoint9" playOrder="7">
+        <navLabel>
+          <text>Languages</text>
+        </navLabel>
+        <content src="skills.xhtml#languages" />  
+      </navPoint>
+      <navPoint id="navPoint10" playOrder="8">
+        <navLabel>
+          <text>Databases</text>
+        </navLabel>
+        <content src="skills.xhtml#databases" />  
+      </navPoint>
+      <navPoint id="navPoint11" playOrder="9">
+        <navLabel>
+          <text>Software</text>
+        </navLabel>
+        <content src="skills.xhtml#software" />  
+      </navPoint>
+      <navPoint id="navPoint12" playOrder="10">
+        <navLabel>
+          <text>Concepts</text>
+        </navLabel>
+        <content src="skills.xhtml#concepts" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint13" playOrder="11">
+      <navLabel>
+        <text>Professional Experience</text>
+      </navLabel>
+      <content src="professionalexperience.xhtml" />  
+      <navPoint id="navPoint14" playOrder="11">
+        <navLabel>
+          <text>Professional Experience</text>
+        </navLabel>
+        <content src="professionalexperience.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint15" playOrder="12">
+        <navLabel>
+          <text>Sutter Health IS, Sacramento, CA</text>
+        </navLabel>
+        <content src="professionalexperience.xhtml#professionalexperience" />  
+      </navPoint>
+      <navPoint id="navPoint16" playOrder="13">
+        <navLabel>
+          <text>ECMC (formerly EdFund Guarantee), Rancho Cordova, CA</text>
+        </navLabel>
+        <content src="professionalexperience.xhtml#id2" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint17" playOrder="14">
+      <navLabel>
+        <text>Personal Projects and Client Work</text>
+      </navLabel>
+      <content src="nonprofessionalexperience.xhtml" />  
+      <navPoint id="navPoint18" playOrder="14">
+        <navLabel>
+          <text>Personal Projects and Client Work</text>
+        </navLabel>
+        <content src="nonprofessionalexperience.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint19" playOrder="15">
+        <navLabel>
+          <text>Personal Home Page</text>
+        </navLabel>
+        <content src="nonprofessionalexperience.xhtml#nonprofessionalexperience" />  
+      </navPoint>
+      <navPoint id="navPoint20" playOrder="16">
+        <navLabel>
+          <text>Norcal Noise Fest</text>
+        </navLabel>
+        <content src="nonprofessionalexperience.xhtml#id2" />  
+      </navPoint>
+      <navPoint id="navPoint21" playOrder="17">
+        <navLabel>
+          <text>Musiclandria</text>
+        </navLabel>
+        <content src="nonprofessionalexperience.xhtml#id3" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint22" playOrder="18">
+      <navLabel>
+        <text>Education &amp; Certification</text>
+      </navLabel>
+      <content src="education.xhtml" />  
+    </navPoint>
+  </navMap>
+</ncx>
