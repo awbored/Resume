@@ -8,7 +8,7 @@ cd ./resume/
 make clean
 make html
 make epub
-ebook-convert ./build/epub/Resume.epub ../Resume.pdf
+ebook-convert ./build/epub/Resume.epub ./Resume.pdf
 cp -r ./build/html/* ../docs
 git add .
 git commit -a -m "Updating resume ${d}"
