@@ -9,3 +9,4 @@ Requirements:
   - Linux/Bash
   - Python3
   - sphinx-doc
+  - Calibre (for epub > PDF conversion)
