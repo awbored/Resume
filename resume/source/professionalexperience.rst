@@ -7,7 +7,7 @@ Professional Experience
 `Sutter Health IS, Sacramento, CA <https://www.sutterhealth.org/>`_
 -------------------------------------------------------------------
 
-* **System Engineer 2, 2019-2021**
+* **System Engineer 2, 11/2019-04/2021**
       * Engineering, implementation, operation, maintenance, and support of a wide range of server platforms including:
             * Microsoft SCOM - For Monitoring Microsoft systems
             * Splunk - Log ingestion & Searching
@@ -22,7 +22,7 @@ Professional Experience
             * Managed documentation and user access control to Red Hat Ansible Tower (2/2021)
 
 
-* **Security Analyst 3, 2017-2019**
+* **Security Analyst 3, 05/2017-11/2019**
       * Managed Identity Access Management through SailPoint IdentityIQ
       * Managed Privileged Access Management and password rotation through CyberArk software
       * Provided data security support and guidance to Sutter Health regions and affiliates
@@ -36,7 +36,7 @@ Professional Experience
             * Lead team and built processes for Server access cleanup project to remove access from servers where privileged access was granted in error
 
 
-* **Account Administrator 2, 2014-2017**
+* **Account Administrator 2, 10/2014-05/2017**
       * Assisted in technical analysis, design, support, and implementation of the day to day account administration requests regarding various types of access and application usage
       * Provisioned access for Active Directory, AIX, AS400, UNIX, Linux, Remote Access and related systems
       * Assisted in the implementation and support of technical solutions
@@ -56,7 +56,7 @@ Professional Experience
             * Designed and updated RightFax processes for system-wide implementation
 
 
-* **Service Desk Representative, 2013-2014**
+* **Service Desk Representative, 10/2013-10/2014**
       * Provided technical support to over 60,000 employees including Doctors, Sutter Health employees, and external vendors through voice and written communications
       * Supported Medical systems built on AS/400 platforms
       * Handled ticket routing through Remedy software
@@ -68,7 +68,7 @@ Professional Experience
 `ECMC (formerly EdFund Guarantee), Rancho Cordova, CA <https://www.ecmc.org/>`_
 -------------------------------------------------------------------------------
 
-* **Help Desk Support, 2005-2013**
+* **Help Desk Support, 06/2005-01/2013**
       * Provided technical support to employees, lenders, schools and students through voice and written communications
       * Added, removed and maintained users on Active Directory and Linux
       * Basic updates to Microsoft Exchange email accounts

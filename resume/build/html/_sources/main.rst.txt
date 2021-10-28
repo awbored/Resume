@@ -2,7 +2,7 @@
 Andrew W Surber
 ===============
 
-**Utilizing technology to find solutions for daily tasks, daily problems, and daily boredom.**
+**Utilizing technology to find solutions for the tasks and problems that come up daily.**
 
 Contacts
 --------
