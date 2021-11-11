@@ -22,7 +22,7 @@ Professional Experience
             * Managed documentation and user access control to Red Hat Ansible Tower (2/2021)
 
 
-* **Security Analyst 3, 04/08/2018-07/28/2019**
+* **Information Security Analyst 3, 04/08/2018-07/28/2019**
       * Managed Identity Access Management through SailPoint IdentityIQ
       * Managed Privileged Access Management and password rotation through CyberArk software
       * Provided data security support and guidance to Sutter Health regions and affiliates
