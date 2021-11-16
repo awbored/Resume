@@ -58,6 +58,7 @@ Personal Projects and Client Work
 
 
 `City Lights Theater - Cellista's Finding San Jose (3/24/2021) <https://www.youtube.com/watch?v=Vl1Sgstf8dA>`_
+---------------------------------------------------------------------------------------------------------------
 
 * Technical Lead For Virtual Events
 

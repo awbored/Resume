@@ -141,8 +141,14 @@
         </navLabel>
         <content src="nonprofessionalexperience.xhtml#id4" />  
       </navPoint>
+      <navPoint id="navPoint23" playOrder="19">
+        <navLabel>
+          <text>City Lights Theater - Cellista’s Finding San Jose (3/24/2021)</text>
+        </navLabel>
+        <content src="nonprofessionalexperience.xhtml#id5" />  
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint23" playOrder="19">
+    <navPoint id="navPoint24" playOrder="20">
       <navLabel>
         <text>Education &amp; Certification</text>
       </navLabel>
