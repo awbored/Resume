@@ -15,10 +15,10 @@ Personal Projects and Client Work
 
 * Primary Sound Engineer for In-Person events
 
-  * Sound Board
-  * Stage Management
-  * Sound Design
-  * Speaker Configuration
+  * Sound board
+  * Stage management
+  * Sound design
+  * Speaker configuration
   * Professional experience working with multiple musicians and performers to deliver amazing audio and performances for the audience
 
 * Technical Wizard For Virtual Events
@@ -28,7 +28,7 @@ Personal Projects and Client Work
   * Automation scripting for video organizing
   * Video curation
   * Playlist generating
-  * Graphic Design
+  * Graphic design
   * Capturing video and audio from multiple artists and performers from over the world for live stream during events
   * Experience with multiple streaming software, OBS
   * Experience with VoiP solutions, ZOOM, Discord
@@ -54,3 +54,14 @@ Personal Projects and Client Work
   * Experience with multiple streaming software, OBS
   * Sound recording
   * Sound design
+  * Sound engineer
+
+
+`City Lights Theater - Cellista's 'Finding San Jose' <https://www.youtube.com/watch?v=Vl1Sgstf8dA> (3/24/2021)`
+
+* Technical Lead For Virtual Events
+
+  * Event streaming over Facebook, archived to YouTube
+  * Experience with multiple streaming software, OBS
+  * Directed interviews remotely and captured video for stream
+  * Graphic design
