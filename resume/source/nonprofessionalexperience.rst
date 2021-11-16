@@ -57,7 +57,7 @@ Personal Projects and Client Work
   * Sound engineer
 
 
-`City Lights Theater - Cellista's Finding San Jose <https://www.youtube.com/watch?v=Vl1Sgstf8dA> (3/24/2021)`_
+`City Lights Theater - Cellista's Finding San Jose (3/24/2021) <https://www.youtube.com/watch?v=Vl1Sgstf8dA>`_
 
 * Technical Lead For Virtual Events
 
