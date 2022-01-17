@@ -4,25 +4,31 @@ Education & Certification
 
 .. _education:
 
-* Automation with Ansible and Ansible Tower (DO410)
+* Company: Red Hat
 
-  * Red Hat Training and Certification 2019
-
-
-* Splunk 7.x Fundamentals Part 1 (eLearning)
-
-  * Splunk eLearning 2019
+  * Certification: Automation with Ansible and Ansible Tower (DO410)
+  * Completed: December 16, 2019
 
 
-* IdentityIQ Implementation: Essentials v7.2
+* Company: Splunk
 
-  * SailPoint Technologies 2019
+  * Certification:  Splunk 7.x Fundamentals Part 1 (eLearning)
+  * Completed: December 26, 2019
 
 
-* Microsoft Certified Technology Specialist (MCTS)
+* Company: Sailpoint Technologies
 
-  * 70-680 Windows 7 Configuration
-  * Tech Skills of California 2011
+  * Certification: IdentityIQ Implementation: Essentials v7.2
+  * Completed: April 19, 2019
+
+
+* School: Tech Skills of California
+
+  * Certification: Microsoft Certified Technology Specialist (MCTS)
+
+    * 70-680 Windows 7 Configuration
+
+  * Completed: October 18, 2011
 
 
 * ITIL V3 Foundation Course
