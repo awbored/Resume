@@ -37,6 +37,8 @@ Professional Experience
 
 
 * **Account Administrator 2, 10/13/2014-04/08/2018**
+      * Managed Identity Access Management through SailPoint IdentityIQ
+      * Managed Privileged Access Management and password rotation through CyberArk software
       * Assisted in technical analysis, design, support, and implementation of the day to day account administration requests regarding various types of access and application usage
       * Provisioned access for Active Directory, AIX, AS400, UNIX, Linux, Remote Access and related systems
       * Assisted in the implementation and support of technical solutions
