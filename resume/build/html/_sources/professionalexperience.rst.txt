@@ -23,8 +23,8 @@ Professional Experience
 
 
 * **Information Security Analyst 3, 04/08/2018-07/28/2019**
-      * Managed Identity Access Management through SailPoint IdentityIQ
-      * Managed Privileged Access Management and password rotation through CyberArk software
+      * Managed IAM, Identity Access Management through SailPoint IdentityIQ
+      * Managed PAM, Privileged Access Management and password rotation through CyberArk software
       * Provided data security support and guidance to Sutter Health regions and affiliates
       * Represented the Data Security Office on project teams and other IS initiatives and works with other IS operations support departments to identify and recommend solutions on security-related issues
       * Provided hands-on security administration of a broad range of security duties
@@ -37,8 +37,8 @@ Professional Experience
 
 
 * **Account Administrator 2, 10/13/2014-04/08/2018**
-      * Managed Identity Access Management through SailPoint IdentityIQ
-      * Managed Privileged Access Management and password rotation through CyberArk software
+      * Managed IAM, Identity Access Management through SailPoint IdentityIQ
+      * Managed PAM, Privileged Access Management and password rotation through CyberArk software
       * Assisted in technical analysis, design, support, and implementation of the day to day account administration requests regarding various types of access and application usage
       * Provisioned access for Active Directory, AIX, AS400, UNIX, Linux, Remote Access and related systems
       * Assisted in the implementation and support of technical solutions
