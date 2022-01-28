@@ -55,4 +55,5 @@ Concepts
 * RBAC, Role Based Access Control
 * IAM, Identity Access Management
 * PAM, Privileged Access Management
+* AD and LDAP, Directory Access Protocols
 * Automation
