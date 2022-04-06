@@ -18,3 +18,4 @@ Contents
    professionalexperience
    nonprofessionalexperience
    education
+   onepage

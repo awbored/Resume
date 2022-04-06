@@ -12,8 +12,8 @@
     <dc:publisher>Andrew Wayne Surber</dc:publisher>
     <dc:rights>2022, Andrew Wayne Surber</dc:rights>
     <dc:identifier id="unknown">unknown</dc:identifier>
-    <dc:date>2022-01-27T16:48:23Z</dc:date>
-    <meta property="dcterms:modified">2022-01-27T16:48:23Z</meta>
+    <dc:date>2022-04-06T13:49:14Z</dc:date>
+    <meta property="dcterms:modified">2022-04-06T13:49:14Z</meta>
     <meta property="ibooks:version"></meta>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="ibooks:binding">true</meta>
@@ -27,22 +27,24 @@
     <item id="epub-2" href="index.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-3" href="main.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-4" href="nonprofessionalexperience.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-5" href="professionalexperience.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-6" href="skills.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-7" href="_static/basic.css" media-type="text/css" />
-    <item id="epub-8" href="_static/epub.css" media-type="text/css" />
-    <item id="epub-9" href="_static/file.png" media-type="image/png" />
-    <item id="epub-10" href="_static/minus.png" media-type="image/png" />
-    <item id="epub-11" href="_static/plus.png" media-type="image/png" />
-    <item id="epub-12" href="_static/pygments.css" media-type="text/css" />
+    <item id="epub-5" href="onepage.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-6" href="professionalexperience.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-7" href="skills.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-8" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-9" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-10" href="_static/file.png" media-type="image/png" />
+    <item id="epub-11" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-12" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-13" href="_static/pygments.css" media-type="text/css" />
   </manifest>
   <spine toc="ncx" page-progression-direction="ltr">
     <itemref idref="epub-2" />
     <itemref idref="epub-3" />
+    <itemref idref="epub-7" />
     <itemref idref="epub-6" />
-    <itemref idref="epub-5" />
     <itemref idref="epub-4" />
     <itemref idref="epub-0" />
+    <itemref idref="epub-5" />
     <itemref idref="epub-1" />
   </spine>
   <guide>
