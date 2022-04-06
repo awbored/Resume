@@ -167,11 +167,35 @@
       </navPoint>
       <navPoint id="navPoint27" playOrder="22">
         <navLabel>
+          <text>Background</text>
+        </navLabel>
+        <content src="curriculumvitae.xhtml#background" />  
+      </navPoint>
+      <navPoint id="navPoint28" playOrder="23">
+        <navLabel>
+          <text>Summary of Qualifications</text>
+        </navLabel>
+        <content src="curriculumvitae.xhtml#summary-of-qualifications" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint29" playOrder="24">
+      <navLabel>
+        <text>Selected Project Experience</text>
+      </navLabel>
+      <content src="curriculumvitae.xhtml#selected-project-experience" />  
+      <navPoint id="navPoint30" playOrder="24">
+        <navLabel>
+          <text>Selected Project Experience</text>
+        </navLabel>
+        <content src="curriculumvitae.xhtml#selected-project-experience" />  
+      </navPoint>
+      <navPoint id="navPoint31" playOrder="25">
+        <navLabel>
           <text>Healthcare Provider</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#healthcare-provider" />  
       </navPoint>
-      <navPoint id="navPoint28" playOrder="23">
+      <navPoint id="navPoint32" playOrder="26">
         <navLabel>
           <text>Nationwide Student Loan Company</text>
         </navLabel>
