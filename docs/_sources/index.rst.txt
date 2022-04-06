@@ -18,4 +18,4 @@ Contents
    professionalexperience
    nonprofessionalexperience
    education
-   onepage
+   curriculumvitae

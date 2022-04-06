@@ -2,7 +2,7 @@
 Curriculum Vitae
 ================
 
-.. _onepage:
+.. curriculumvitae:
 
 Healthcare Provider
 -------------------

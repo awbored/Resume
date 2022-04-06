@@ -158,24 +158,24 @@
       <navLabel>
         <text>Curriculum Vitae</text>
       </navLabel>
-      <content src="onepage.xhtml" />  
+      <content src="curriculumvitae.xhtml" />  
       <navPoint id="navPoint26" playOrder="21">
         <navLabel>
           <text>Curriculum Vitae</text>
         </navLabel>
-        <content src="onepage.xhtml" />  
+        <content src="curriculumvitae.xhtml" />  
       </navPoint>
       <navPoint id="navPoint27" playOrder="22">
         <navLabel>
           <text>Healthcare Provider</text>
         </navLabel>
-        <content src="onepage.xhtml#healthcare-provider" />  
+        <content src="curriculumvitae.xhtml#healthcare-provider" />  
       </navPoint>
       <navPoint id="navPoint28" playOrder="23">
         <navLabel>
           <text>Nationwide Student Loan Company</text>
         </navLabel>
-        <content src="onepage.xhtml#nationwide-student-loan-company" />  
+        <content src="curriculumvitae.xhtml#nationwide-student-loan-company" />  
       </navPoint>
     </navPoint>
   </navMap>
