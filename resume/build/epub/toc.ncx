@@ -2,7 +2,7 @@
 <ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
   <head>
     <meta name="dtb:uid" content="unknown"/>
-    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:depth" content="2"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
@@ -176,26 +176,20 @@
           <text>Summary of Qualifications</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#summary-of-qualifications" />  
-        <navPoint id="navPoint29" playOrder="23">
-          <navLabel>
-            <text>Summary of Qualifications</text>
-          </navLabel>
-          <content src="curriculumvitae.xhtml#summary-of-qualifications" />  
-        </navPoint>
-        <navPoint id="navPoint30" playOrder="24">
-          <navLabel>
-            <text>Selected Project Experience</text>
-          </navLabel>
-          <content src="curriculumvitae.xhtml#selected-project-experience" />  
-        </navPoint>
       </navPoint>
-      <navPoint id="navPoint31" playOrder="25">
+      <navPoint id="navPoint29" playOrder="24">
+        <navLabel>
+          <text>Selected Project Experience</text>
+        </navLabel>
+        <content src="curriculumvitae.xhtml#selected-project-experience" />  
+      </navPoint>
+      <navPoint id="navPoint30" playOrder="25">
         <navLabel>
           <text>Healthcare Provider</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#healthcare-provider" />  
       </navPoint>
-      <navPoint id="navPoint32" playOrder="26">
+      <navPoint id="navPoint31" playOrder="26">
         <navLabel>
           <text>Nationwide Student Loan Company</text>
         </navLabel>
