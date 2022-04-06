@@ -4,8 +4,8 @@ Curriculum Vitae
 
 .. _onepage:
 
-`Healthcare Provider`
----------------------
+Healthcare Provider
+-------------------
 
 * **System Engineer**
       * Engineering, implementation, operation, maintenance, and support of a wide range of server platforms including:
@@ -67,8 +67,8 @@ Curriculum Vitae
       * Exceptional customer service skills working in a face paced environment
 
 
-`Nationwide Student Loan Company`
----------------------------------
+Nationwide Student Loan Company
+-------------------------------
 
 * **Help Desk Support**
       * Provided technical support to employees, lenders, schools and students through voice and written communications
