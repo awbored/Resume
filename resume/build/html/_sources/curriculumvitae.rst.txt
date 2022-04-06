@@ -20,7 +20,6 @@ Summary of Qualifications
 * Maintained quick turnaround of projects and tasks
 
 
-===========================
 Selected Project Experience
 ===========================
 
