@@ -46,11 +46,11 @@ Selected Project Experience
 Information Security Analyst & Account Administrator at Healthcare Provider
 ---------------------------------------------------------------------------
 
-* Managed IAM, Identity Access Management, through SailPoint IdentityIQ
+* Managed Identity Access Management through SailPoint IdentityIQ
       * Created certifications at monthly or quarterly intervals, dependent on company policy
       * Daily maintenance and refresh of Sailpoint IdentityIQ systems and Identity Cubes
       * Implemented updates, roles, accesses to applications and systems
-* Managed PAM, Privileged Access Management, and password rotation through CyberArk
+* Managed Privileged Access Management and password rotation through CyberArk
 * Provided data security support and guidance to healthcare provider and affiliates
 * Represented the Data Security Office on project teams and other IS initiatives and worked with other IS operations support departments to identify and recommend solutions on security-related issues
 * Provided oversight of design, engineering, analysis, research, testing and monitoring of new applications or systems in the domain
