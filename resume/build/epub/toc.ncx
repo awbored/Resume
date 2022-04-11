@@ -179,21 +179,33 @@
       </navPoint>
       <navPoint id="navPoint29" playOrder="24">
         <navLabel>
+          <text>Platforms</text>
+        </navLabel>
+        <content src="curriculumvitae.xhtml#platforms" />  
+      </navPoint>
+      <navPoint id="navPoint30" playOrder="25">
+        <navLabel>
+          <text>Languages</text>
+        </navLabel>
+        <content src="curriculumvitae.xhtml#languages" />  
+      </navPoint>
+      <navPoint id="navPoint31" playOrder="26">
+        <navLabel>
+          <text>Databases</text>
+        </navLabel>
+        <content src="curriculumvitae.xhtml#databases" />  
+      </navPoint>
+      <navPoint id="navPoint32" playOrder="27">
+        <navLabel>
           <text>Selected Project Experience</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#selected-project-experience" />  
       </navPoint>
-      <navPoint id="navPoint30" playOrder="25">
+      <navPoint id="navPoint33" playOrder="28">
         <navLabel>
-          <text>Healthcare Provider</text>
+          <text>Information Security Analyst &amp; Account Administrator at Healthcare Provider</text>
         </navLabel>
-        <content src="curriculumvitae.xhtml#healthcare-provider" />  
-      </navPoint>
-      <navPoint id="navPoint31" playOrder="26">
-        <navLabel>
-          <text>Nationwide Student Loan Company</text>
-        </navLabel>
-        <content src="curriculumvitae.xhtml#nationwide-student-loan-company" />  
+        <content src="curriculumvitae.xhtml#information-security-analyst-account-administrator-at-healthcare-provider" />  
       </navPoint>
     </navPoint>
   </navMap>
