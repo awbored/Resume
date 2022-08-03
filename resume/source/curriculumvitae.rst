@@ -44,6 +44,7 @@ Selected Project Experience
 
 
 IAM Testing Lead at Pharmaceutical Company
+------------------------------------------
 * Reviewed, edited, and built test cases for regression testing of new IAM solution implementations
 * Ensured test cases were built with company policy requirements
 * Systems included:
