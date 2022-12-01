@@ -203,11 +203,17 @@
       </navPoint>
       <navPoint id="navPoint33" playOrder="28">
         <navLabel>
+          <text>Technology Architect at Financial Company</text>
+        </navLabel>
+        <content src="curriculumvitae.xhtml#technology-architect-at-financial-company" />  
+      </navPoint>
+      <navPoint id="navPoint34" playOrder="29">
+        <navLabel>
           <text>IAM Testing Lead at Pharmaceutical Company</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#iam-testing-lead-at-pharmaceutical-company" />  
       </navPoint>
-      <navPoint id="navPoint34" playOrder="29">
+      <navPoint id="navPoint35" playOrder="30">
         <navLabel>
           <text>Information Security Analyst &amp; Account Administrator at Healthcare Provider</text>
         </navLabel>

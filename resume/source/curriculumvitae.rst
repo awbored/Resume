@@ -43,8 +43,23 @@ Selected Project Experience
 ---------------------------
 
 
+Technology Architect at Financial Company
+-----------------------------------------
+
+* Chief on-shore engineering lead, served as the key hands-on resource to drive conversations across all workstreams.  Worked closely with OCM Leads for the PAM workstream to structure and complete project deliverables:
+      * Reviewed Client CyberArk Platforms and Policies
+      * Onboarded Domain Administrator and other generic accounts to CyberArk with PSM capabilities
+      * Established Windows and Linux Platform PAM Requirements including password rotation and connectivity options
+      * Collaborated with adjacent PAM/WAM workstreams to structure and plan project
+      * Built PSM infrastructure in dev and test
+      * Prepared PAM Functional Requirements, Solution Build Guide, PAM Use-Cases, PSM Solution Design and other key deliverables
+* Systems included:
+      * CyberArk PVWA, PSM, Alero, EPM
+
+
 IAM Testing Lead at Pharmaceutical Company
 ------------------------------------------
+
 * Reviewed, edited, and built test cases for regression testing of new IAM solution implementations
 * Ensured test cases were built with company policy requirements
 * Systems included:
