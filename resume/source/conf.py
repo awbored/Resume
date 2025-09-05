@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Resume'
-copyright = '2022, Andrew Wayne Surber'
+copyright = '2025, Andrew Wayne Surber'
 author = 'Andrew Wayne Surber'
 
 # The full version, including alpha/beta/rc tags
-release = '11.30.2022'
+release = '09.04.2025'
 
 
 # -- General configuration ---------------------------------------------------
