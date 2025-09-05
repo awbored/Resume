@@ -95,125 +95,131 @@
       </navPoint>
       <navPoint id="navPoint15" playOrder="12">
         <navLabel>
-          <text>Sutter Health IS, Sacramento, CA</text>
+          <text>Accenture, USA</text>
         </navLabel>
         <content src="professionalexperience.xhtml#professionalexperience" />  
       </navPoint>
       <navPoint id="navPoint16" playOrder="13">
         <navLabel>
-          <text>ECMC (formerly EdFund Guarantee), Rancho Cordova, CA</text>
+          <text>Sutter Health IS, Sacramento, CA</text>
         </navLabel>
         <content src="professionalexperience.xhtml#id2" />  
       </navPoint>
+      <navPoint id="navPoint17" playOrder="14">
+        <navLabel>
+          <text>ECMC (formerly EdFund Guarantee), Rancho Cordova, CA</text>
+        </navLabel>
+        <content src="professionalexperience.xhtml#id3" />  
+      </navPoint>
     </navPoint>
-    <navPoint id="navPoint17" playOrder="14">
+    <navPoint id="navPoint18" playOrder="15">
       <navLabel>
         <text>Personal Projects and Client Work</text>
       </navLabel>
       <content src="nonprofessionalexperience.xhtml" />  
-      <navPoint id="navPoint18" playOrder="14">
+      <navPoint id="navPoint19" playOrder="15">
         <navLabel>
           <text>Personal Projects and Client Work</text>
         </navLabel>
         <content src="nonprofessionalexperience.xhtml" />  
       </navPoint>
-      <navPoint id="navPoint19" playOrder="15">
+      <navPoint id="navPoint20" playOrder="16">
         <navLabel>
           <text>Personal Home Page</text>
         </navLabel>
         <content src="nonprofessionalexperience.xhtml#nonprofessionalexperience" />  
       </navPoint>
-      <navPoint id="navPoint20" playOrder="16">
+      <navPoint id="navPoint21" playOrder="17">
         <navLabel>
           <text>Norcal Noise Fest</text>
         </navLabel>
         <content src="nonprofessionalexperience.xhtml#id2" />  
       </navPoint>
-      <navPoint id="navPoint21" playOrder="17">
+      <navPoint id="navPoint22" playOrder="18">
         <navLabel>
           <text>Musiclandria</text>
         </navLabel>
         <content src="nonprofessionalexperience.xhtml#id3" />  
       </navPoint>
-      <navPoint id="navPoint22" playOrder="18">
+      <navPoint id="navPoint23" playOrder="19">
         <navLabel>
           <text>Berkeley Finnish Hall</text>
         </navLabel>
         <content src="nonprofessionalexperience.xhtml#id4" />  
       </navPoint>
-      <navPoint id="navPoint23" playOrder="19">
+      <navPoint id="navPoint24" playOrder="20">
         <navLabel>
           <text>City Lights Theater - Cellista’s Finding San Jose (3/24/2021)</text>
         </navLabel>
         <content src="nonprofessionalexperience.xhtml#id5" />  
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint24" playOrder="20">
+    <navPoint id="navPoint25" playOrder="21">
       <navLabel>
         <text>Education &amp; Certification</text>
       </navLabel>
       <content src="education.xhtml" />  
     </navPoint>
-    <navPoint id="navPoint25" playOrder="21">
+    <navPoint id="navPoint26" playOrder="22">
       <navLabel>
         <text>Curriculum Vitae</text>
       </navLabel>
       <content src="curriculumvitae.xhtml" />  
-      <navPoint id="navPoint26" playOrder="21">
+      <navPoint id="navPoint27" playOrder="22">
         <navLabel>
           <text>Curriculum Vitae</text>
         </navLabel>
         <content src="curriculumvitae.xhtml" />  
       </navPoint>
-      <navPoint id="navPoint27" playOrder="22">
+      <navPoint id="navPoint28" playOrder="23">
         <navLabel>
           <text>Background</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#background" />  
       </navPoint>
-      <navPoint id="navPoint28" playOrder="23">
+      <navPoint id="navPoint29" playOrder="24">
         <navLabel>
           <text>Summary of Qualifications</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#summary-of-qualifications" />  
       </navPoint>
-      <navPoint id="navPoint29" playOrder="24">
+      <navPoint id="navPoint30" playOrder="25">
         <navLabel>
           <text>Platforms</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#platforms" />  
       </navPoint>
-      <navPoint id="navPoint30" playOrder="25">
+      <navPoint id="navPoint31" playOrder="26">
         <navLabel>
           <text>Languages</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#languages" />  
       </navPoint>
-      <navPoint id="navPoint31" playOrder="26">
+      <navPoint id="navPoint32" playOrder="27">
         <navLabel>
           <text>Databases</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#databases" />  
       </navPoint>
-      <navPoint id="navPoint32" playOrder="27">
+      <navPoint id="navPoint33" playOrder="28">
         <navLabel>
           <text>Selected Project Experience</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#selected-project-experience" />  
       </navPoint>
-      <navPoint id="navPoint33" playOrder="28">
+      <navPoint id="navPoint34" playOrder="29">
         <navLabel>
           <text>Technology Architect at Financial Company</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#technology-architect-at-financial-company" />  
       </navPoint>
-      <navPoint id="navPoint34" playOrder="29">
+      <navPoint id="navPoint35" playOrder="30">
         <navLabel>
           <text>IAM Testing Lead at Pharmaceutical Company</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#iam-testing-lead-at-pharmaceutical-company" />  
       </navPoint>
-      <navPoint id="navPoint35" playOrder="30">
+      <navPoint id="navPoint36" playOrder="31">
         <navLabel>
           <text>Information Security Analyst &amp; Account Administrator at Healthcare Provider</text>
         </navLabel>
