@@ -10,7 +10,7 @@ Personal Projects and Client Work
 * Personal blog will detail ongoing events and projects
 
 
-`Norcal Noise Fest <https://www.youtube.com/norcalnoisefest>`_
+`Norcal Noise Fest & Sacramento Audio Waffle <https://www.youtube.com/norcalnoisefest>`_
 --------------------------------------------------------------
 
 * Primary Sound Engineer for In-Person events
