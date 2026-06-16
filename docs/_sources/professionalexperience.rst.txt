@@ -10,22 +10,31 @@ Professional Experience
 * **Security Consulting Consultant, 03/23/2022-CURRENT**
       * As an Accenture consultant I had worked for the following companies, depending on contract length and client needs
       * Application Developer at Power and Gas company, Allentown, PA, 06/09/2025-06/12/2026:
-            * Designed, built, and configured SailPoint IdentityIQ application to meet business needs
-            * Collaborated with multiple taems to gather and analyze requirements for application development
+            * Designed, built, and configured SailPoint IdentityIQ applications to meet business needs
+            * Collaborated with multiple teams to gather and analyze requirements for application development
             * Implemented best practices and current security standards in application design
             * Assisted with troubleshooting system connections through multiple domains
             * Tested and debugged applications to ensure functionality and reliability
             * Developed documentation for daily processes
+            * Maintained and updated SailPoint and other application code through Azure Dev Ops Repositories
+            * Maintained inventory of:
+                  * SailPoint servers
+                  * SailPoint and other system accounts
+                  * Accesses to external systems
+                  * CyberArk safes and system accounts
+            * **Accomplishments**
+                  * Extensive PowerShell development for Active Directory research & testing for SailPoint Active Directory connectors
+                  * Functioned as on call support through two week long Change Go Lives, pushing SailPoint to Production
       * Technology Consulting Practitioner at Power and Gas company, Merrillville, IN, 01/29/2024-06/29/2025:
             * Designed, built, and configured on-prem CyberArk application to meet business security needs
             * Managed all elements of CyberArk, assisted during system outages, planned and managed upgrades of systems
-            * Designed Safe and Group permission infrastructure, which gave better visability for better auditing users accesses to CyberArk objects
+            * Designed Safe and Group permission infrastructure, which gave better visibility for better auditing users accesses to CyberArk objects
             * Developed PowerShell scripts to streamline and automate processes that were previously tedious manual tasks
             * **Accomplishments:**
                   * Managed and planned CyberArk upgrade within DEV to PROD environments, tracking multiple component upgrades across physical and virtual devices
-                  * Redesigned Safe and Group infrastructure, updated permissions to over 1000 safes
+                  * Redesigned Safe and Group infrastructure, updated permissions to over 1000 safes, utilizing PowerShell scripting
       * Technology Architect at Financial Company, St Louis, MO, 08/03/2022-01/26/2024:
-            * Chief engineering lead, served as key hands-on resource to drive conversations across all workstreams
+            * Chief engineering lead, served as key hands-on resource to drive conversations across all work streams
             * Rolled out new CyberArk installations at large company
             * Led meetings training employees how to use CyberArk
             * Onboarded Domain Admin, service accounts, and other privileged accounts into CyberArk
@@ -51,7 +60,7 @@ Professional Experience
       * Deployed and retired Windows or RHEL virtual machines over VMware vSphere
       * Created timely event specific automation triggers in Splunk or SCOM for system monitoring and ticket generation
       * **Accomplishments:**
-            * Managed Citrix vROPS (vRealize Operations Manager) Systemwide upgrade to 8.1.1 (10/2020)
+            * Managed Citrix vROPS (vRealize Operations Manager) System wide upgrade to 8.1.1 (10/2020)
             * Managed documentation and user access control to Red Hat Ansible Tower (2/2021)
 
 

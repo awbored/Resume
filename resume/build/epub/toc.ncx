@@ -203,23 +203,35 @@
       </navPoint>
       <navPoint id="navPoint33" playOrder="28">
         <navLabel>
-          <text>Selected Project Experience</text>
+          <text>Selected Accenture Project Experience</text>
         </navLabel>
-        <content src="curriculumvitae.xhtml#selected-project-experience" />  
+        <content src="curriculumvitae.xhtml#selected-accenture-project-experience" />  
       </navPoint>
       <navPoint id="navPoint34" playOrder="29">
+        <navLabel>
+          <text>Application Developer at Power and Gas company</text>
+        </navLabel>
+        <content src="curriculumvitae.xhtml#application-developer-at-power-and-gas-company" />  
+      </navPoint>
+      <navPoint id="navPoint35" playOrder="30">
+        <navLabel>
+          <text>Technology Consulting Practitioner at Power and Gas company</text>
+        </navLabel>
+        <content src="curriculumvitae.xhtml#technology-consulting-practitioner-at-power-and-gas-company" />  
+      </navPoint>
+      <navPoint id="navPoint36" playOrder="31">
         <navLabel>
           <text>Technology Architect at Financial Company</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#technology-architect-at-financial-company" />  
       </navPoint>
-      <navPoint id="navPoint35" playOrder="30">
+      <navPoint id="navPoint37" playOrder="32">
         <navLabel>
           <text>IAM Testing Lead at Pharmaceutical Company</text>
         </navLabel>
         <content src="curriculumvitae.xhtml#iam-testing-lead-at-pharmaceutical-company" />  
       </navPoint>
-      <navPoint id="navPoint36" playOrder="31">
+      <navPoint id="navPoint38" playOrder="33">
         <navLabel>
           <text>Information Security Analyst &amp; Account Administrator at Healthcare Provider</text>
         </navLabel>
