@@ -7,9 +7,9 @@ Professional Experience
 `Accenture, USA <https://www.accenture.com>`_
 -------------------------------------------------------------------
 
-* **Security Consulting Senior Analyst, 03/23/2022-CURRENT**
+* **Security Consulting Consultant, 03/23/2022-CURRENT**
       * As an Accenture consultant I had worked for the following companies, depending on contract length and client needs
-      * Application Developer at Power and Gas company, Allentown, PA, 06/09/2025-12/31/2025:
+      * Application Developer at Power and Gas company, Allentown, PA, 06/09/2025-06/12/2026:
             * Designed, built, and configured SailPoint IdentityIQ application to meet business needs
             * Collaborated with multiple taems to gather and analyze requirements for application development
             * Implemented best practices and current security standards in application design

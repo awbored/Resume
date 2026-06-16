@@ -11,7 +11,7 @@ Personal Projects and Client Work
 
 
 `Norcal Noise Fest & Sacramento Audio Waffle <https://www.youtube.com/norcalnoisefest>`_
---------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
 * Primary Sound Engineer for In-Person events
 
