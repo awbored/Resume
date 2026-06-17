@@ -10,7 +10,7 @@ make html
 make epub
 # ebook-convert ./build/epub/Resume.epub ./Resume.pdf
 cp -r ./build/html/* ../docs
+cd ../
 git add .
 git commit -a -m "Updating resume ${d}"
-cd ../
 git push

@@ -58,6 +58,8 @@ Application Developer at Power and Gas company
 * **Accomplishments**
       * Extensive PowerShell development for Active Directory research & testing for SailPoint Active Directory connectors
       * Functioned as on call support through two week long Change Go Lives, pushing SailPoint to Production
+* Systems included:
+      * SailPoint, CyberArk
 
 Technology Consulting Practitioner at Power and Gas company
 -----------------------------------------------------------
@@ -68,7 +70,8 @@ Technology Consulting Practitioner at Power and Gas company
 * **Accomplishments:**
       * Managed and planned CyberArk upgrade within DEV to PROD environments, tracking multiple component upgrades across physical and virtual devices
       * Redesigned Safe and Group infrastructure, updated permissions to over 1000 safes, utilizing PowerShell scripting
-
+* Systems included:
+      * CyberArk PVWA
 
 Technology Architect at Financial Company
 -----------------------------------------
