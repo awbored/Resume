@@ -9,6 +9,19 @@ Professional Experience
 
 * **Security Consulting Consultant, 03/23/2022-CURRENT**
       * As an Accenture consultant I had worked for the following companies, depending on contract length and client needs
+      * Delivery Lead at Home Appliance Manufacturer, Benton Harbor, MI, 8/03/2026-10/10/2026:
+            * Set meetings with client for requirement gathering, technical sessions, daily cadence
+            * Maintained record of and submitted requests for team's accesses to various systems
+            * Maintained SharePoint and Google Drive cloud shared storage locations for team
+            * Developed documentation for daily processes
+            * Provided weekly status updates to team and leadership
+            * Maintained and presented deliverables to client for Phase 0 cleanup work
+            * Converted files: .csv, .ldif, etc to Google Sheets
+            * Code review and sharing among team
+            * Developed PowerShell scripts to pull user data from various client Active Directory domains for user cleanup reporting
+            * **Accomplishments**
+                  * Provided remediation strategies for user data cleanup for IBM ISVG, IBM ISVA, Microsoft Active Directory, other LDAP systems
+                  * Presented and provided all deliverables for phase 0 of client work      
       * Application Developer at Power and Gas company, Allentown, PA, 06/09/2025-06/12/2026:
             * Designed, built, and configured SailPoint IdentityIQ applications to meet business needs
             * Collaborated with multiple teams to gather and analyze requirements for application development

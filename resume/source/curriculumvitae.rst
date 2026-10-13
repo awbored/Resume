@@ -42,6 +42,24 @@ Databases
 Selected Accenture Project Experience
 ---------------------------
 
+<<<<<<< HEAD
+Delivery Lead at Home Appliance Manufacturer
+--------------------------------------------
+* Set meetings with client for requirement gathering, technical sessions, daily cadence
+* Maintained record of and submitted requests for team's accesses to various systems
+* Maintained SharePoint and Google Drive cloud shared storage locations for team
+* Developed documentation for daily processes
+* Provided weekly status updates to team and leadership
+* Maintained and presented deliverables to client for Phase 0 cleanup work
+* Converted files: .csv, .ldif, etc to Google Sheets
+* Code review and sharing among team
+* Developed PowerShell scripts to pull user data from various client Active Directory domains for user cleanup reporting
+* **Accomplishments**
+      * Provided remediation strategies for user data cleanup for IBM ISVG, IBM ISVA, Microsoft Active Directory, other LDAP systems
+      * Presented and provided all deliverables for phase 0 of client work
+
+=======
+>>>>>>> 4447b3f654d61f30e158e2ba3d95803f7bb37893
 Application Developer at Power and Gas company
 ----------------------------------------------
 * Designed, built, and configured SailPoint IdentityIQ applications to meet business needs
@@ -58,8 +76,11 @@ Application Developer at Power and Gas company
 * **Accomplishments**
       * Extensive PowerShell development for Active Directory research & testing for SailPoint Active Directory connectors
       * Functioned as on call support through two week long Change Go Lives, pushing SailPoint to Production
+<<<<<<< HEAD
+=======
 * Systems included:
       * SailPoint, CyberArk
+>>>>>>> 4447b3f654d61f30e158e2ba3d95803f7bb37893
 
 Technology Consulting Practitioner at Power and Gas company
 -----------------------------------------------------------
@@ -70,8 +91,12 @@ Technology Consulting Practitioner at Power and Gas company
 * **Accomplishments:**
       * Managed and planned CyberArk upgrade within DEV to PROD environments, tracking multiple component upgrades across physical and virtual devices
       * Redesigned Safe and Group infrastructure, updated permissions to over 1000 safes, utilizing PowerShell scripting
+<<<<<<< HEAD
+
+=======
 * Systems included:
       * CyberArk PVWA
+>>>>>>> 4447b3f654d61f30e158e2ba3d95803f7bb37893
 
 Technology Architect at Financial Company
 -----------------------------------------
