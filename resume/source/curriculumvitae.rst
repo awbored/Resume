@@ -40,9 +40,8 @@ Databases
 
 
 Selected Accenture Project Experience
----------------------------
+-------------------------------------
 
-<<<<<<< HEAD
 Delivery Lead at Home Appliance Manufacturer
 --------------------------------------------
 * Set meetings with client for requirement gathering, technical sessions, daily cadence
@@ -58,9 +57,7 @@ Delivery Lead at Home Appliance Manufacturer
       * Provided remediation strategies for user data cleanup for IBM ISVG, IBM ISVA, Microsoft Active Directory, other LDAP systems
       * Presented and provided all deliverables for phase 0 of client work
 
-=======
->>>>>>> 4447b3f654d61f30e158e2ba3d95803f7bb37893
-Application Developer at Power and Gas company
+Application Developer at Power and Gas Company
 ----------------------------------------------
 * Designed, built, and configured SailPoint IdentityIQ applications to meet business needs
 * Collaborated with multiple teams to gather and analyze requirements for application development
@@ -76,13 +73,10 @@ Application Developer at Power and Gas company
 * **Accomplishments**
       * Extensive PowerShell development for Active Directory research & testing for SailPoint Active Directory connectors
       * Functioned as on call support through two week long Change Go Lives, pushing SailPoint to Production
-<<<<<<< HEAD
-=======
 * Systems included:
       * SailPoint, CyberArk
->>>>>>> 4447b3f654d61f30e158e2ba3d95803f7bb37893
 
-Technology Consulting Practitioner at Power and Gas company
+Technology Consulting Practitioner at Power and Gas Company
 -----------------------------------------------------------
 * Designed, built, and configured on-prem CyberArk application to meet business security needs
 * Managed all elements of CyberArk, assisted during system outages, planned and managed upgrades of systems
@@ -91,12 +85,8 @@ Technology Consulting Practitioner at Power and Gas company
 * **Accomplishments:**
       * Managed and planned CyberArk upgrade within DEV to PROD environments, tracking multiple component upgrades across physical and virtual devices
       * Redesigned Safe and Group infrastructure, updated permissions to over 1000 safes, utilizing PowerShell scripting
-<<<<<<< HEAD
-
-=======
 * Systems included:
       * CyberArk PVWA
->>>>>>> 4447b3f654d61f30e158e2ba3d95803f7bb37893
 
 Technology Architect at Financial Company
 -----------------------------------------

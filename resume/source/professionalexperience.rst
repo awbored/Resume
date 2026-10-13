@@ -5,7 +5,7 @@ Professional Experience
 .. _professionalexperience:
 
 `Accenture, USA <https://www.accenture.com>`_
--------------------------------------------------------------------
+---------------------------------------------
 
 * **Security Consulting Consultant, 03/23/2022-CURRENT**
       * As an Accenture consultant I had worked for the following companies, depending on contract length and client needs
