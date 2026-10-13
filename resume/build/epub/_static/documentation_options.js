@@ -1,5 +1,5 @@
 const DOCUMENTATION_OPTIONS = {
-    VERSION: '06.15.2026',
+    VERSION: '10.13.2026',
     LANGUAGE: 'en',
     COLLAPSE_INDEX: false,
     BUILDER: 'epub',

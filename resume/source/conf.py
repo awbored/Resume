@@ -22,7 +22,7 @@ copyright = '2026, Andrew Wayne Surber'
 author = 'Andrew Wayne Surber'
 
 # The full version, including alpha/beta/rc tags
-release = '06.15.2026'
+release = '10.13.2026'
 
 
 # -- General configuration ---------------------------------------------------
