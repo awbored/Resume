@@ -1,9 +1,9 @@
 #!/bin/bash
 d=$(date +%Y-%m-%d)
 
-python3 -m venv .venv
+# python3 -m venv .venv
 source .venv/bin/activate
-pip install furo
+# pip install furo
 cd ./resume/
 make clean
 make html
